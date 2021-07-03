@@ -2241,19 +2241,19 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/polygrass",
+        href: "https://t.me/polyarrow",
         items: [{
                 label: 'Telegram',
-                href: "https://t.me/polygrass"
+                href: "https://t.me/polyarrow"
             }],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/polygrassdefi/",
+        href: "https://twitter.com/polyarrowdefi/",
         items: [{
                 label: 'Twitter',
-                href: "https://twitter.com/polygrassdefi/"
+                href: "https://twitter.com/polyarrowdefi/"
             }],
     },
 ];
